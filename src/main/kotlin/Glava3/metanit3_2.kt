@@ -1,3 +1,5 @@
+package Glava3
+
 fun printStrings(vararg strings: String){
     for(str in strings)
         println(str)

@@ -1,3 +1,5 @@
+package Glava4
+
 class TestDog(val name: String, weight_param: Int, breed_param: String){
     init {
         println("Dog $name has been created.")

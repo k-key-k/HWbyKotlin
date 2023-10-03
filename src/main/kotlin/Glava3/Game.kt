@@ -1,4 +1,4 @@
-import java.awt.Choice
+package Glava3
 
 fun main(){
     val options = arrayOf("Rock", "Scissors", "Paper")

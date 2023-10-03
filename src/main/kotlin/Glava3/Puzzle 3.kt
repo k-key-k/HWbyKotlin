@@ -1,3 +1,5 @@
+package Glava3
+
 fun main() {
     var x = 0
     var y = 20

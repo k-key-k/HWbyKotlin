@@ -1,3 +1,5 @@
+package Glava3
+
 fun square(x: Int) = x * x
 
 fun compareAge(age1: Int, age2: Int){

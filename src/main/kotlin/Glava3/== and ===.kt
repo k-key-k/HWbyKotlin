@@ -1,3 +1,5 @@
+package Glava3
+
 class A () {
     fun test () {
         var a = 2
